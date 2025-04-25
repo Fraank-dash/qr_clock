@@ -6,7 +6,7 @@ from datetime import datetime, timezone,timedelta
 from qrcode.image.styledpil import StyledPilImage
 import logging
 logger = logging.getLogger(__name__)
-logging.basicConfig(filename="log.csv",level=logging.DEBUG)
+logging.basicConfig(filename="log.csv",level=logging.INFO)
 #fh = logging.FileHandler("log.csv")
 #logger.addHandler(fh)
 #logger.setLevel(logging.DEBUG)
@@ -39,12 +39,16 @@ def update_output(n_intervals):
     _end = datetime.now(timezone.utc)
     _diff = _end - _start
     interval = 1000 -int(_start.microsecond+_diff.microseconds)/1000
-    logger.debug(f"START: {_start} | END: {_end} | Diff: {_diff} | Interval: {interval} | QRCode: {_dt_strf}")
-    return [html.H2(children=f"START: {_start.strftime(rf"%d/%m/%Y %H:%M:%S.%f %z")}"),
-            html.H2(children=f"END: {_end.strftime(rf"%d/%m/%Y %H:%M:%S.%f %z")}"), 
-            html.H3(children=f"CodeExecutionTime: {_diff} [ms]"),
-            html.H3(children=f"UpdateIntervalCorrection: {interval} [ms]"),
-            html.H3(children=f"QRCode-String: {_dt_strf}"),], src, interval
+    if logger.isEnabledFor(logging.DEBUG):
+        logger.debug(f"START: {_start} | END: {_end} | Diff: {_diff} | Interval: {interval} | QRCode: {_dt_strf}")
+        return [html.H2(children=f"START: {_start.strftime(rf"%d/%m/%Y %H:%M:%S.%f %z")}"),
+                html.H2(children=f"END: {_end.strftime(rf"%d/%m/%Y %H:%M:%S.%f %z")}"), 
+                html.H3(children=f"CodeExecutionTime: {_diff} [ms]"),
+                html.H3(children=f"UpdateIntervalCorrection: {interval} [ms]"),
+                html.H3(children=f"QRCode-String: {_dt_strf}"),], src, interval
+    else:
+        logger.info(f"Interval: {interval} | QRCode: {_dt_strf}")
+        return [], src, interval
     
 if __name__ == "__main__":
     app.run(debug=False)
