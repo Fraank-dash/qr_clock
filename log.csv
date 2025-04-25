@@ -1,0 +1,191 @@
+INFO:dash.dash:Dash is running on http://127.0.0.1:8050/
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:__main__:START: 2025-04-25 17:56:42.030112+00:00 | END: 2025-04-25 17:56:42.041670+00:00 | Diff: 0:00:00.011558 | Interval: 958.33 | QRCode: 25/04/2025 17:56:42 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:42] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:56:43.018364+00:00 | END: 2025-04-25 17:56:43.023978+00:00 | Diff: 0:00:00.005614 | Interval: 976.022 | QRCode: 25/04/2025 17:56:43 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:43] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:56:44.047250+00:00 | END: 2025-04-25 17:56:44.058937+00:00 | Diff: 0:00:00.011687 | Interval: 941.063 | QRCode: 25/04/2025 17:56:44 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:44] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:56:45.037444+00:00 | END: 2025-04-25 17:56:45.053141+00:00 | Diff: 0:00:00.015697 | Interval: 946.859 | QRCode: 25/04/2025 17:56:45 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:45] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:56:46.070691+00:00 | END: 2025-04-25 17:56:46.096229+00:00 | Diff: 0:00:00.025538 | Interval: 903.771 | QRCode: 25/04/2025 17:56:46 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:46] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:56:47.029363+00:00 | END: 2025-04-25 17:56:47.034729+00:00 | Diff: 0:00:00.005366 | Interval: 965.271 | QRCode: 25/04/2025 17:56:47 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:47] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:56:48.048171+00:00 | END: 2025-04-25 17:56:48.054092+00:00 | Diff: 0:00:00.005921 | Interval: 945.908 | QRCode: 25/04/2025 17:56:48 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:48] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:56:49.018481+00:00 | END: 2025-04-25 17:56:49.023929+00:00 | Diff: 0:00:00.005448 | Interval: 976.071 | QRCode: 25/04/2025 17:56:49 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:49] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:56:50.058514+00:00 | END: 2025-04-25 17:56:50.064056+00:00 | Diff: 0:00:00.005542 | Interval: 935.944 | QRCode: 25/04/2025 17:56:50 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:50] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:56:51.036023+00:00 | END: 2025-04-25 17:56:51.050963+00:00 | Diff: 0:00:00.014940 | Interval: 949.037 | QRCode: 25/04/2025 17:56:51 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:51] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:56:52.062680+00:00 | END: 2025-04-25 17:56:52.068784+00:00 | Diff: 0:00:00.006104 | Interval: 931.216 | QRCode: 25/04/2025 17:56:52 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:52] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:56:53.016279+00:00 | END: 2025-04-25 17:56:53.022222+00:00 | Diff: 0:00:00.005943 | Interval: 977.778 | QRCode: 25/04/2025 17:56:53 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:53] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:56:54.066288+00:00 | END: 2025-04-25 17:56:54.072343+00:00 | Diff: 0:00:00.006055 | Interval: 927.657 | QRCode: 25/04/2025 17:56:54 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:54] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:56:55.060143+00:00 | END: 2025-04-25 17:56:55.065965+00:00 | Diff: 0:00:00.005822 | Interval: 934.035 | QRCode: 25/04/2025 17:56:55 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:55] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:56:56.072216+00:00 | END: 2025-04-25 17:56:56.077942+00:00 | Diff: 0:00:00.005726 | Interval: 922.058 | QRCode: 25/04/2025 17:56:56 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:56] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:56:57.015607+00:00 | END: 2025-04-25 17:56:57.021513+00:00 | Diff: 0:00:00.005906 | Interval: 978.487 | QRCode: 25/04/2025 17:56:57 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:57] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:56:58.079917+00:00 | END: 2025-04-25 17:56:58.085651+00:00 | Diff: 0:00:00.005734 | Interval: 914.349 | QRCode: 25/04/2025 17:56:58 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:58] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:56:59.024895+00:00 | END: 2025-04-25 17:56:59.030471+00:00 | Diff: 0:00:00.005576 | Interval: 969.529 | QRCode: 25/04/2025 17:56:59 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:56:59] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:00.085736+00:00 | END: 2025-04-25 17:57:00.091555+00:00 | Diff: 0:00:00.005819 | Interval: 908.4449999999999 | QRCode: 25/04/2025 17:57:00 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:00] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:01.183221+00:00 | END: 2025-04-25 17:57:01.190553+00:00 | Diff: 0:00:00.007332 | Interval: 809.447 | QRCode: 25/04/2025 17:57:01 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:01] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:02.092335+00:00 | END: 2025-04-25 17:57:02.098025+00:00 | Diff: 0:00:00.005690 | Interval: 901.975 | QRCode: 25/04/2025 17:57:02 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:02] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:03.015411+00:00 | END: 2025-04-25 17:57:03.020932+00:00 | Diff: 0:00:00.005521 | Interval: 979.068 | QRCode: 25/04/2025 17:57:03 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:03] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:04.097472+00:00 | END: 2025-04-25 17:57:04.103167+00:00 | Diff: 0:00:00.005695 | Interval: 896.833 | QRCode: 25/04/2025 17:57:04 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:04] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:05.015066+00:00 | END: 2025-04-25 17:57:05.022901+00:00 | Diff: 0:00:00.007835 | Interval: 977.099 | QRCode: 25/04/2025 17:57:05 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:05] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:06.192626+00:00 | END: 2025-04-25 17:57:06.197890+00:00 | Diff: 0:00:00.005264 | Interval: 802.11 | QRCode: 25/04/2025 17:57:06 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:06] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:07.015440+00:00 | END: 2025-04-25 17:57:07.021251+00:00 | Diff: 0:00:00.005811 | Interval: 978.749 | QRCode: 25/04/2025 17:57:07 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:07] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:08.111321+00:00 | END: 2025-04-25 17:57:08.117017+00:00 | Diff: 0:00:00.005696 | Interval: 882.983 | QRCode: 25/04/2025 17:57:08 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:08] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:09.071347+00:00 | END: 2025-04-25 17:57:09.077050+00:00 | Diff: 0:00:00.005703 | Interval: 922.95 | QRCode: 25/04/2025 17:57:09 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:09] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:10.117856+00:00 | END: 2025-04-25 17:57:10.123872+00:00 | Diff: 0:00:00.006016 | Interval: 876.128 | QRCode: 25/04/2025 17:57:10 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:10] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:11.015353+00:00 | END: 2025-04-25 17:57:11.021197+00:00 | Diff: 0:00:00.005844 | Interval: 978.803 | QRCode: 25/04/2025 17:57:11 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:11] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:12.127546+00:00 | END: 2025-04-25 17:57:12.132937+00:00 | Diff: 0:00:00.005391 | Interval: 867.063 | QRCode: 25/04/2025 17:57:12 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:12] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:13.015751+00:00 | END: 2025-04-25 17:57:13.021759+00:00 | Diff: 0:00:00.006008 | Interval: 978.241 | QRCode: 25/04/2025 17:57:13 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:13] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:14.133029+00:00 | END: 2025-04-25 17:57:14.138963+00:00 | Diff: 0:00:00.005934 | Interval: 861.037 | QRCode: 25/04/2025 17:57:14 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:14] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:15.017438+00:00 | END: 2025-04-25 17:57:15.022873+00:00 | Diff: 0:00:00.005435 | Interval: 977.127 | QRCode: 25/04/2025 17:57:15 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:15] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:16.109018+00:00 | END: 2025-04-25 17:57:16.114908+00:00 | Diff: 0:00:00.005890 | Interval: 885.092 | QRCode: 25/04/2025 17:57:16 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:16] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:17.016184+00:00 | END: 2025-04-25 17:57:17.021852+00:00 | Diff: 0:00:00.005668 | Interval: 978.148 | QRCode: 25/04/2025 17:57:17 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:17] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:18.015711+00:00 | END: 2025-04-25 17:57:18.021621+00:00 | Diff: 0:00:00.005910 | Interval: 978.379 | QRCode: 25/04/2025 17:57:18 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:18] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:19.014974+00:00 | END: 2025-04-25 17:57:19.020596+00:00 | Diff: 0:00:00.005622 | Interval: 979.404 | QRCode: 25/04/2025 17:57:19 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:19] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:20.015929+00:00 | END: 2025-04-25 17:57:20.021635+00:00 | Diff: 0:00:00.005706 | Interval: 978.365 | QRCode: 25/04/2025 17:57:20 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:20] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:21.015171+00:00 | END: 2025-04-25 17:57:21.020589+00:00 | Diff: 0:00:00.005418 | Interval: 979.4110000000001 | QRCode: 25/04/2025 17:57:21 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:21] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:22.016021+00:00 | END: 2025-04-25 17:57:22.023498+00:00 | Diff: 0:00:00.007477 | Interval: 976.502 | QRCode: 25/04/2025 17:57:22 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:22] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:23.017639+00:00 | END: 2025-04-25 17:57:23.025339+00:00 | Diff: 0:00:00.007700 | Interval: 974.6610000000001 | QRCode: 25/04/2025 17:57:23 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:23] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:24.075467+00:00 | END: 2025-04-25 17:57:24.081271+00:00 | Diff: 0:00:00.005804 | Interval: 918.729 | QRCode: 25/04/2025 17:57:24 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:24] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:25.020922+00:00 | END: 2025-04-25 17:57:25.026431+00:00 | Diff: 0:00:00.005509 | Interval: 973.569 | QRCode: 25/04/2025 17:57:25 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:25] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:26.116186+00:00 | END: 2025-04-25 17:57:26.121995+00:00 | Diff: 0:00:00.005809 | Interval: 878.005 | QRCode: 25/04/2025 17:57:26 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:26] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:27.026920+00:00 | END: 2025-04-25 17:57:27.032640+00:00 | Diff: 0:00:00.005720 | Interval: 967.36 | QRCode: 25/04/2025 17:57:27 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:27] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:28.015517+00:00 | END: 2025-04-25 17:57:28.022411+00:00 | Diff: 0:00:00.006894 | Interval: 977.5889999999999 | QRCode: 25/04/2025 17:57:28 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:28] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:29.049868+00:00 | END: 2025-04-25 17:57:29.075215+00:00 | Diff: 0:00:00.025347 | Interval: 924.785 | QRCode: 25/04/2025 17:57:29 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:29] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:30.038912+00:00 | END: 2025-04-25 17:57:30.062047+00:00 | Diff: 0:00:00.023135 | Interval: 937.953 | QRCode: 25/04/2025 17:57:30 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:30] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:31.041243+00:00 | END: 2025-04-25 17:57:31.046693+00:00 | Diff: 0:00:00.005450 | Interval: 953.307 | QRCode: 25/04/2025 17:57:31 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:31] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:32.017539+00:00 | END: 2025-04-25 17:57:32.023360+00:00 | Diff: 0:00:00.005821 | Interval: 976.64 | QRCode: 25/04/2025 17:57:32 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:32] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:33.046186+00:00 | END: 2025-04-25 17:57:33.051771+00:00 | Diff: 0:00:00.005585 | Interval: 948.229 | QRCode: 25/04/2025 17:57:33 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:33] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:34.047525+00:00 | END: 2025-04-25 17:57:34.052753+00:00 | Diff: 0:00:00.005228 | Interval: 947.247 | QRCode: 25/04/2025 17:57:34 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:34] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:35.052592+00:00 | END: 2025-04-25 17:57:35.058554+00:00 | Diff: 0:00:00.005962 | Interval: 941.446 | QRCode: 25/04/2025 17:57:35 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:35] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:36.119324+00:00 | END: 2025-04-25 17:57:36.126904+00:00 | Diff: 0:00:00.007580 | Interval: 873.096 | QRCode: 25/04/2025 17:57:36 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:36] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:37.056914+00:00 | END: 2025-04-25 17:57:37.062908+00:00 | Diff: 0:00:00.005994 | Interval: 937.092 | QRCode: 25/04/2025 17:57:37 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:37] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:38.014984+00:00 | END: 2025-04-25 17:57:38.020375+00:00 | Diff: 0:00:00.005391 | Interval: 979.625 | QRCode: 25/04/2025 17:57:38 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:38] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:39.079255+00:00 | END: 2025-04-25 17:57:39.087562+00:00 | Diff: 0:00:00.008307 | Interval: 912.438 | QRCode: 25/04/2025 17:57:39 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:39] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:40.014310+00:00 | END: 2025-04-25 17:57:40.020006+00:00 | Diff: 0:00:00.005696 | Interval: 979.994 | QRCode: 25/04/2025 17:57:40 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:40] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:41.082293+00:00 | END: 2025-04-25 17:57:41.088326+00:00 | Diff: 0:00:00.006033 | Interval: 911.674 | QRCode: 25/04/2025 17:57:41 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:41] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:42.029052+00:00 | END: 2025-04-25 17:57:42.054532+00:00 | Diff: 0:00:00.025480 | Interval: 945.468 | QRCode: 25/04/2025 17:57:42 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:42] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:43.089432+00:00 | END: 2025-04-25 17:57:43.094935+00:00 | Diff: 0:00:00.005503 | Interval: 905.065 | QRCode: 25/04/2025 17:57:43 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:43] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:44.022913+00:00 | END: 2025-04-25 17:57:44.028503+00:00 | Diff: 0:00:00.005590 | Interval: 971.497 | QRCode: 25/04/2025 17:57:44 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:44] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:45.181922+00:00 | END: 2025-04-25 17:57:45.210192+00:00 | Diff: 0:00:00.028270 | Interval: 789.808 | QRCode: 25/04/2025 17:57:45 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:45] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:46.035262+00:00 | END: 2025-04-25 17:57:46.060623+00:00 | Diff: 0:00:00.025361 | Interval: 939.377 | QRCode: 25/04/2025 17:57:46 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:46] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:47.120236+00:00 | END: 2025-04-25 17:57:47.137877+00:00 | Diff: 0:00:00.017641 | Interval: 862.123 | QRCode: 25/04/2025 17:57:47 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:47] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:48.059804+00:00 | END: 2025-04-25 17:57:48.082584+00:00 | Diff: 0:00:00.022780 | Interval: 917.4159999999999 | QRCode: 25/04/2025 17:57:48 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:48] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:49.112447+00:00 | END: 2025-04-25 17:57:49.118382+00:00 | Diff: 0:00:00.005935 | Interval: 881.6179999999999 | QRCode: 25/04/2025 17:57:49 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:49] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:50.097232+00:00 | END: 2025-04-25 17:57:50.103209+00:00 | Diff: 0:00:00.005977 | Interval: 896.7909999999999 | QRCode: 25/04/2025 17:57:50 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:50] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:51.144450+00:00 | END: 2025-04-25 17:57:51.157887+00:00 | Diff: 0:00:00.013437 | Interval: 842.113 | QRCode: 25/04/2025 17:57:51 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:51] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:52.031686+00:00 | END: 2025-04-25 17:57:52.036946+00:00 | Diff: 0:00:00.005260 | Interval: 963.054 | QRCode: 25/04/2025 17:57:52 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:52] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:53.128139+00:00 | END: 2025-04-25 17:57:53.133906+00:00 | Diff: 0:00:00.005767 | Interval: 866.094 | QRCode: 25/04/2025 17:57:53 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:53] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:54.082458+00:00 | END: 2025-04-25 17:57:54.088675+00:00 | Diff: 0:00:00.006217 | Interval: 911.325 | QRCode: 25/04/2025 17:57:54 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:54] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:55.118687+00:00 | END: 2025-04-25 17:57:55.145580+00:00 | Diff: 0:00:00.026893 | Interval: 854.42 | QRCode: 25/04/2025 17:57:55 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:55] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:56.019711+00:00 | END: 2025-04-25 17:57:56.025064+00:00 | Diff: 0:00:00.005353 | Interval: 974.936 | QRCode: 25/04/2025 17:57:56 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:56] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:57.031759+00:00 | END: 2025-04-25 17:57:57.050078+00:00 | Diff: 0:00:00.018319 | Interval: 949.922 | QRCode: 25/04/2025 17:57:57 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:57] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:58.017541+00:00 | END: 2025-04-25 17:57:58.023167+00:00 | Diff: 0:00:00.005626 | Interval: 976.833 | QRCode: 25/04/2025 17:57:58 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:58] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:57:59.015184+00:00 | END: 2025-04-25 17:57:59.022159+00:00 | Diff: 0:00:00.006975 | Interval: 977.841 | QRCode: 25/04/2025 17:57:59 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:57:59] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:58:00.024613+00:00 | END: 2025-04-25 17:58:00.030052+00:00 | Diff: 0:00:00.005439 | Interval: 969.948 | QRCode: 25/04/2025 17:58:00 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:58:00] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:58:01.014020+00:00 | END: 2025-04-25 17:58:01.020232+00:00 | Diff: 0:00:00.006212 | Interval: 979.768 | QRCode: 25/04/2025 17:58:01 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:58:01] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:58:02.045993+00:00 | END: 2025-04-25 17:58:02.070601+00:00 | Diff: 0:00:00.024608 | Interval: 929.399 | QRCode: 25/04/2025 17:58:02 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:58:02] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:58:03.017918+00:00 | END: 2025-04-25 17:58:03.024637+00:00 | Diff: 0:00:00.006719 | Interval: 975.363 | QRCode: 25/04/2025 17:58:03 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:58:03] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:58:04.038654+00:00 | END: 2025-04-25 17:58:04.045131+00:00 | Diff: 0:00:00.006477 | Interval: 954.869 | QRCode: 25/04/2025 17:58:04 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:58:04] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:58:05.009518+00:00 | END: 2025-04-25 17:58:05.016502+00:00 | Diff: 0:00:00.006984 | Interval: 983.498 | QRCode: 25/04/2025 17:58:05 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:58:05] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:58:06.044788+00:00 | END: 2025-04-25 17:58:06.050905+00:00 | Diff: 0:00:00.006117 | Interval: 949.095 | QRCode: 25/04/2025 17:58:06 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:58:06] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:58:07.015205+00:00 | END: 2025-04-25 17:58:07.020917+00:00 | Diff: 0:00:00.005712 | Interval: 979.083 | QRCode: 25/04/2025 17:58:07 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:58:07] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:58:08.051352+00:00 | END: 2025-04-25 17:58:08.056855+00:00 | Diff: 0:00:00.005503 | Interval: 943.145 | QRCode: 25/04/2025 17:58:08 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:58:08] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:58:09.088867+00:00 | END: 2025-04-25 17:58:09.094715+00:00 | Diff: 0:00:00.005848 | Interval: 905.285 | QRCode: 25/04/2025 17:58:09 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:58:09] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:58:10.061276+00:00 | END: 2025-04-25 17:58:10.066787+00:00 | Diff: 0:00:00.005511 | Interval: 933.213 | QRCode: 25/04/2025 17:58:10 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:58:10] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:58:11.020244+00:00 | END: 2025-04-25 17:58:11.028241+00:00 | Diff: 0:00:00.007997 | Interval: 971.759 | QRCode: 25/04/2025 17:58:11 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:58:11] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:58:12.065455+00:00 | END: 2025-04-25 17:58:12.070936+00:00 | Diff: 0:00:00.005481 | Interval: 929.064 | QRCode: 25/04/2025 17:58:12 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:58:12] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:58:13.014595+00:00 | END: 2025-04-25 17:58:13.020158+00:00 | Diff: 0:00:00.005563 | Interval: 979.842 | QRCode: 25/04/2025 17:58:13 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:58:13] "POST /_dash-update-component HTTP/1.1" 200 -
+DEBUG:__main__:START: 2025-04-25 17:58:14.082241+00:00 | END: 2025-04-25 17:58:14.106291+00:00 | Diff: 0:00:00.024050 | Interval: 893.7090000000001 | QRCode: 25/04/2025 17:58:14 +0000
+INFO:werkzeug:127.0.0.1 - - [25/Apr/2025 19:58:14] "POST /_dash-update-component HTTP/1.1" 200 -
